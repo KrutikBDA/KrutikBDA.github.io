@@ -4,6 +4,7 @@
   - Masters in Big Data Analytics
 - Shri G.S. Institute of Technology & Science, Indore, MP, India - **July 2016 - April 2020**
   - Bachelors in Computer Science & Engineering
+ 
 ## Work Experience
 - Deloitte Consulting USI, Bengaluru, KA, India - **November 2020 - June 2022**
   - Integrations Developer 
